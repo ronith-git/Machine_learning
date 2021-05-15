@@ -1,2 +1,4 @@
 # Machine_learning
-Repo for training various ML models on different datasets
+This repo is to get started with applying machine learning to make predictions
+So we will be working on the famous iris dataset classification
+
